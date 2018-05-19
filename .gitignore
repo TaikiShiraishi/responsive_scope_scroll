@@ -1,0 +1,5 @@
+node_modules/
+npm-debug.log
+_dist/
+.idea
+.node-version
